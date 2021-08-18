@@ -10,6 +10,7 @@ WebP is an image format employing both lossy and lossless compression, and suppo
 2. ffmpeg installed on windows with environment vairable set.
 
 
-# How to Run
+# How to Run?
+Put the (.bat) file in the images direcotry and run it, or double click on the file.
 
 
